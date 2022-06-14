@@ -1,0 +1,5 @@
+
+<!ELEMENT memberList (name, tel, addr)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT tel (#PCDATA)>
+<!ELEMENT addr (#PCDATA)>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DTD 추가 -->
+
+<!DOCTYPE memberList
+[
+<!ELEMENT memberList (memberInfo, name, tel, addr)>
+<!ELEMENT memberInfo (name, tel, addr)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT tel (#PCDATA)>
+<!ELEMENT addr (#PCDATA)>
+]>
+
+<memberList>
+
+	<memberInfo mid="1">
+		<name>최문정</name>
+		<tel><![CDATA[010-2877-0992]]></tel>
+		<addr>인천시 연수구</addr>
+	</memberInfo>
+	
+	<memberInfo mid="2">
+		<name>홍은혜</name>
+		<tel><![CDATA[010-2877-0992]]></tel>
+		<addr>경기도 용인시</addr>
+	</memberInfo>
+	
+</memberList>
+

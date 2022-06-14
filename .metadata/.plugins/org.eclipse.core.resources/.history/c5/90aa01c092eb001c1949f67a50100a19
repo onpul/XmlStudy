@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<memberList>
+
+	<memberInfo mid="1">
+		<name>최문정</name>
+		<tel><![CDATA[010-2877-0992]]></tel>
+		<addr>인천시 연수구</addr>
+	</memberInfo>
+	
+	<memberInfo mid="2">
+		<name>홍은혜</name>
+		<tel><![CDATA[010-2877-0992]]></tel>
+		<addr>경기도 용인시</addr>
+	</memberInfo>
+	
+</memberList>
+
