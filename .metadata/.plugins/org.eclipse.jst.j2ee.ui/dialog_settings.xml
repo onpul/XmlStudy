@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item key="J2EE_EXPORT_OVERWRITE" value="false"/>
-	<item key="J2EE_EXPORT_SOURCE" value="false"/>
+	<item key="J2EE_EXPORT_OVERWRITE" value="true"/>
+	<item key="J2EE_EXPORT_SOURCE" value="true"/>
 	<list key="MRU_RUNTIME_STORE">
 		<item value="Apache Tomcat v8.5"/>
 	</list>
 	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="C:\Users\SIST\Downloads\XmlApp04.war"/>
+		<item value="C:\Users\SIST\Downloads\XmlApp03.war"/>
+		<item value="C:\Users\SIST\Downloads\XmlApp02.war"/>
+		<item value="C:\Users\SIST\Downloads\XmlApp01.war"/>
 		<item value="C:\Users\mj070\Downloads\XmlApp03.war"/>
-		<item value="C:\Users\mj070\Downloads\XmlApp02.war"/>
-		<item value="C:\Users\mj070\Downloads\XmlApp01.war"/>
+	</list>
+	<list key="J2EE_IMPORT_null">
+		<item value="C:\Users\SIST\Downloads\drive-download-20220616T234113Z-001\XmlApp08.war"/>
+		<item value="C:\Users\SIST\Downloads\drive-download-20220616T234113Z-001\XmlApp07.war"/>
+		<item value="C:\Users\SIST\Downloads\drive-download-20220616T234113Z-001\XmlApp06.war"/>
+		<item value="C:\Users\SIST\Downloads\drive-download-20220616T234113Z-001\XmlApp05.war"/>
 	</list>
 </section>
